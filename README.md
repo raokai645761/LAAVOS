@@ -6,15 +6,15 @@ This project provides tools for training and inference in video segmentation tas
 
 # Model Structrue
 
-![image-20250516001528899](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20250516001528899.png)
+![image](https://github.com/user-attachments/assets/87273e56-59f9-443d-b237-c3287c951920)
 
 # Display of project results
 
-![image-20250516001458294](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20250516001458294.png)
+![image](https://github.com/user-attachments/assets/39af8391-f240-4b59-8f3e-3ed6a89fd5dd)
 
 # folder introduce
 
-![image-20250516001623304](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20250516001623304.png)
+![image](https://github.com/user-attachments/assets/a92100e7-9f28-416a-a1cd-cea8321e9553)
 
 📁 PyTorch-Correlation-extension
 Custom CUDA-optimized correlation operations for dense correspondence tasks
